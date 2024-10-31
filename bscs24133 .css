@@ -9,3 +9,13 @@
      Margin: 10px;
      Padding: 5px;
 }
+
+.normal-para
+{
+    color :chartreuse;
+}
+#fav-para
+{
+    color :rgb(189, 43, 226);
+    
+}
